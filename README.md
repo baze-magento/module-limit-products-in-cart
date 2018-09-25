@@ -1,5 +1,10 @@
 # magento-limit-products-in-cart
 
+## Architecture
+Modules that require theme changes <- Core theme -> Child "skin" themes
+
+**Standalone modules** (This Repo) -> (no dependencies)
+
 ## Installation
 
 ```bash
