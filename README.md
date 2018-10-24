@@ -1,4 +1,5 @@
-# magento-limit-products-in-cart
+# Limit Products in Cart
+Restricts user Carts to only have a single item. Useful for "gift" shops where each user may select one item.
 
 ## Architecture
 Modules that require theme changes <- Core theme -> Child "skin" themes
